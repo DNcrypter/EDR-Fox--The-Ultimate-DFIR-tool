@@ -1,5 +1,5 @@
 
-# 🍁EDR--Fox : The Ultimate DFIR tool
+# 🐺EDR--Fox : The Ultimate DFIR tool
 This Project Show us, How we can leverage Powershell script automation to collect artifacts and create work efficient. The motive of this Project is to reduce manual efforts and increase productivity.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -10,11 +10,11 @@ This Project Show us, How we can leverage Powershell script automation to collec
 This Project contains multiple PowerShell scripts that can help you respond to cyber attacks on Windows Devices.
 
 
-## 🍁Prequiresites
+## ✍Prequiresites
 - Familiar with commandline-interface.
 - Moderate knowledge of Powershell.
 
-## 🍁Requirements
+## ☑️Requirements
 - Windows machine.
 - Vmware or Virtualbox.
 - Admin permissions for better performance.
@@ -105,21 +105,22 @@ To collect the output of the DFIR script perform the following actions:
 ```PowerShell
 getfile "C:\windows\DFIR-TestDevice-2024-08-03.zip" &	
 ```
-## 🍁References
+## 👉References
 - [Microsoft Documentation Live Response](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/live-response?view=o365-worldwide)
 - [DFE User permissions](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/user-roles?view=o365-worldwide)
 - [Defender For Endpoint Settings Live Response](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/advanced-features?view=o365-worldwide#live-response)
 
 
 
-## 🍁Conclusion
+## 🏆Conclusion
 
 Finally, we have created the DFIR project, where we learned about using PowerShell in EDR, how we can integrate with it, and how to collect artifacts with automation.
 
-In the future release, I have some ideas in mind that I will surely implement in this project.
+## 🕯️Future release
+In the **future release**, I have some ideas in mind that I will surely implement in this project.
 
 Hope you enjoyed Project creation and if you want more information on Project message me on linkedin. 
 
- Happy Learning !!!!!
+ 💝💝Happy Learning !!!!! 💝💝
  
- If you like my project make it star in your github and also follow for upcoming content.
+ If you like my project make it star ⭐ in your github and also follow👆 for upcoming releases.
