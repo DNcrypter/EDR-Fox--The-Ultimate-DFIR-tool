@@ -18,4 +18,5 @@ foreach ($logonEvent in $logonEvents) {
 	
 }
 
+
 # Note: This script retrieves logon events from the 'Security' log and filters by Event ID 4624 (successful logon) and 4648 (explicit logon).
