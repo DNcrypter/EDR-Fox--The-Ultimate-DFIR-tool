@@ -1,5 +1,5 @@
 
-# 🐺EDR--Fox : The Ultimate DFIR tool
+# 🐺EDR-Fox : The Ultimate DFIR tool
 This Project Show us, How we can leverage Powershell script automation to collect artifacts and create work efficient. The motive of this Project is to reduce manual efforts and increase productivity.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
