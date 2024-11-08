@@ -213,3 +213,4 @@ Get-MpPreference | Select-Object -ExpandProperty ExclusionProcess
 ```PowerShell
 Get-MpPreference | Select-Object -ExpandProperty ExclusionExtension
 ```
+-
