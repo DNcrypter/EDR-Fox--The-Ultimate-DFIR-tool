@@ -1,6 +1,6 @@
 
 # 🍁EDR--Fox : The Ultimate DFIR tool
-This Lab is going to cover How we create and configure Virustotal-api app in Splunk SOAR.The motive of this lab is to reduce manual efforts and increase productivity.
+This Lab is going to cover How we can leverage Powershell script automation to collect artifacts and create work efficient.The motive of this Project is to reduce manual efforts and increase productivity.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
@@ -11,7 +11,7 @@ This Project contains multiple PowerShell scripts that can help you respond to c
 
 
 ## 🍁Prequiresites
-- Familiarity with commandline-interface.
+- Familiar with commandline-interface.
 - Moderate knowledge of Powershell.
 
 ## 🍁Requirements
