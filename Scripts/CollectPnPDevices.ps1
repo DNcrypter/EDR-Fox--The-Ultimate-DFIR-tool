@@ -24,3 +24,4 @@ foreach ($class in $deviceClasses) {
     $deviceInfo | Out-File -FilePath $outputPath
     Write-Host "Results saved to $outputPath"
 }
+
